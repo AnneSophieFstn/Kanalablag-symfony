@@ -58,7 +58,7 @@ Si vous utilisez mysql à la ligne 27
 
 - Entrer les différentes informations en fonction de vos données à vous:
 
-`DATABASE_URL="mysql://NAME_HOST:@127.0.0.1:3306/NAME_DATABASE?charset=utf8mb4"`
+`DATABASE_URL="mysql://NAME_HOST:PASSWORD@127.0.0.1:3306/NAME_DATABASE?charset=utf8mb4"`
 
 - Si vous n'utilisez pas mysql, n'oubliez pas de commenter la ligne et d'utiliser celle qui convient à votre bdd.
 
